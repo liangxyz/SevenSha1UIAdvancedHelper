@@ -22,10 +22,10 @@
 // @connect      webapi.115.com
 // @connect      115.com
 
-// @require      https://unpkg.zhimg.com/underscore@1.12.0/underscore-min.js
-// @require      https://unpkg.zhimg.com/sweetalert2@11.3.0
-// @require      https://unpkg.zhimg.com/node-forge@0.10.0/dist/forge.min.js
-// @require      https://unpkg.zhimg.com/emoutils@2.0.0/dist/umd/emoutils.min.js
+// @require      https://cdn.jsdelivr.net/npm/underscore@1.12.0/underscore-min.js
+// @require      https://cdn.jsdelivr.net/npm/sweetalert2@11
+// @require      https://cdn.jsdelivr.net/npm/node-forge@0.10.0/dist/forge.min.js
+// @require      https://unpkg.com/emoutils/dist/umd/emoutils.min.js
 // ==/UserScript==
 
 
